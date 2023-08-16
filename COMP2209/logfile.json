@@ -1,0 +1,35 @@
+{
+   "IncludesStatement" : 0,
+   "files" : [
+      {
+         "checksum" : "83e60f1dc5075c62301af1c87569ab70",
+         "filesize" : "88383",
+         "actual_filename" : "Challenges.hs",
+         "uploaded_filename" : "Challenges.hs",
+         "target_filename" : "Challenges.hs"
+      },
+      {
+         "checksum" : "38631f440573c799fdf514a5ba8e6256",
+         "filesize" : "78722",
+         "actual_filename" : "Report.pdf",
+         "uploaded_filename" : "cw_report.pdf",
+         "target_filename" : "Report.pdf"
+      },
+      {
+         "checksum" : "02ec113b5f66a4f9d6601e9dc2363e0e",
+         "filesize" : "7857",
+         "actual_filename" : "Tests.hs",
+         "uploaded_filename" : "Tests.hs",
+         "target_filename" : "Tests.hs"
+      }
+   ],
+   "date" : 1673484715,
+   "name" : "Georgi Iliev",
+   "late" : 0,
+   "comments" : "None",
+   "SubmittedFromHost" : "86.10.229.78",
+   "username" : "gdi1u21",
+   "statement" : "This is all my own work and all sources have been correctly acknowledged.",
+   "WebBrowser" : "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15",
+   "AllOwnWork" : 1
+}
